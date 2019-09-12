@@ -58,7 +58,7 @@
 	"devDependencies": {
 		"coveralls": "^3.0.5",
 		"eslint": "^6.1.0",
-		"eslint-config-nodecraft": "^1.7.1",
+		"eslint-config-nodecraft": "1.7.2",
 		"eslint-plugin-json": "^1.4.0",
 		"eslint-plugin-node": "^10.0.0",
 		"jsdoc-to-markdown": "^5.0.0",
